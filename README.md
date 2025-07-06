@@ -98,3 +98,4 @@ Muhammad Mubashir
 MIT License
 
 ```
+> Note: This chatbot is designed for demo purposes. Data is static and not connected to a live university database.
