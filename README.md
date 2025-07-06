@@ -1,7 +1,7 @@
 # 💬 AI Chatbot for University Support using Rasa
 
 An intelligent, conversational AI chatbot built with Rasa to handle student queries related to university departments, courses, admission, deadlines, and general support. Designed to reduce manual workload and provide 24/7 assistance.
-
+![Chat Demo](screenshots/chat-demo.png)
 
 ## 🧠 Key Features
 
