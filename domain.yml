@@ -1,0 +1,27 @@
+version: "3.1"
+intents:
+  - greet
+  - goodbye
+  - ask_courses
+  - ask_admission
+  - ask_contact
+
+responses:
+  utter_greet:
+    - text: "Hello! How can I help you today?"
+
+  utter_goodbye:
+    - text: "Goodbye! Have a great day."
+
+  utter_ask_courses:
+    - text: "We offer courses like Machine Learning, Deep Learning, NLP, and Computer Vision."
+
+  utter_ask_admission:
+    - text: "You can apply for admission through our online portal at https://admissions.university.edu"
+
+  utter_ask_contact:
+    - text: "You can contact us at +92-21-1234567 or email support@university.edu"
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
